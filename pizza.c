@@ -1,7 +1,9 @@
+
+
 #include<stdio.h>
 int main()
 {
-printf("ggd\n");
+printf("sojaa b\n");
 printf("GGT");
 return 0;
 }
